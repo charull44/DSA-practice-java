@@ -50,25 +50,18 @@ It covers fundamental concepts of:
 
 🌟 Features
 
-Beginner-friendly implementations
-
-Clean and structured code
-
-Covers core DSA concepts
-
-Suitable for academic + interview prep
+- Beginner-friendly implementations
+- Clean and structured code
+- Covers core DSA concepts
+- Suitable for academic + interview prep
 
 🚀 Future Improvements
 
- Add comments to all programs
-
- Add time complexity analysis
-
- Add example outputs
-
- Convert to interactive CLI programs
-
- Add more advanced algorithms (Graphs, DP)
+ - Add comments to all programs
+ - Add time complexity analysis
+ - Add example outputs
+ - Convert to interactive CLI programs
+ - Add more advanced algorithms (Graphs, DP)
 
 🤝 Contributions
 
