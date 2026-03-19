@@ -55,6 +55,18 @@ It covers fundamental concepts of:
 - Covers core DSA concepts
 - Suitable for academic + interview prep
 
+---
+
+## 📈 Progress
+
+- ✅ Arrays & Sorting
+- ✅ Linked List
+- ✅ Stack & Queue
+- ✅ Searching Algorithms
+- ✅ Binary Search Tree
+
+---
+
 🚀 Future Improvements
 
  - Add comments to all programs
