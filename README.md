@@ -75,6 +75,8 @@ It covers fundamental concepts of:
  - Convert to interactive CLI programs
  - Add more advanced algorithms (Graphs, DP)
 
+---
+
 🤝 Contributions
 
 This is a personal learning repository, but suggestions and improvements are welcome!
