@@ -1,3 +1,16 @@
+ * Circular Queue Implementation using Array in Java
+ *
+ * This program demonstrates a circular queue (ring buffer) where
+ * the last position is connected back to the first to efficiently
+ * utilize space.
+ *
+ * Features:
+ * - Enqueue (insert element)
+ * - Dequeue (remove element)
+ * - Peek (view front element)
+ * - Check if queue is empty or full
+ * - Display elements in queue
+ 
 public class CircularQueue {
     int[] q;
     int f,r,size,cap;
